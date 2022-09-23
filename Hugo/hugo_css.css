@@ -52,8 +52,9 @@ footer {
 }
 
 .btn1 {
+    font-size: 15px;
     width: 9.4%;
-    border: 10px groove cyan;
+    border: 8px groove CornflowerBlue;
     background-color: lightcyan;
 }
 
@@ -68,5 +69,3 @@ footer {
     padding-left: 25px;
     text-align: left;
 }
-
-
