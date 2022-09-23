@@ -11,7 +11,8 @@ h1 {
 
 body {
     background-color: gray;
-    color: black; 
+    color: black;
+    text-align: center;
 }
 
 a {
